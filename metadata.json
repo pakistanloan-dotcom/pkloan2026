@@ -1,0 +1,6 @@
+{
+  "name": "Pakistan Loan Portal",
+  "description": "Ministry of Finance - Government of Pakistan PM Youth E-Asan Loan Scheme 2026 Portal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
